@@ -9,6 +9,7 @@ build/
 *.min.js
 *.min.css
 
+MySQL Hands-On Practice
 # IDE
 .vscode/
 .idea/
